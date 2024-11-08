@@ -1,1 +1,10 @@
+in this folder, Calculator.js , Button.js and Display.js will be found.
+the structure of calculator folder :
+
+components
+    |
+Calculator
+   ├── Calculator.js
+   ├── Display.js
+   └── Button.js
 
