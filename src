@@ -1,0 +1,16 @@
+src structure :
+
+src/
+│
+├── components/
+│   ├── Calculator.js
+│   ├── Display.js
+│   └── Button.js
+│
+├── styles/
+│   ├── App.css
+│   └── index.css
+│
+├── App.js
+└── index.js
+
