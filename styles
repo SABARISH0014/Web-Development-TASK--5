@@ -1,1 +1,10 @@
+in this folder, App.css and index.css will be found.
+the structure of styles folder :
+
+components/
+    |
+styles/
+   ├── App.css
+   └── index.css
+
 
